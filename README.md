@@ -75,11 +75,6 @@ A compact 2-layer PCB (~62×62mm) designed around the **ATmega8** 8-bit AVR micr
  
 These Gerber files can be sent directly to any standard PCB fab house:
  
-- [JLCPCB](https://jlcpcb.com)
-- [PCBWay](https://www.pcbway.com)
-- [OSH Park](https://oshpark.com)
-**Recommended fab settings:**
- 
 | Setting | Value |
 |---|---|
 | Layers | 2 |
