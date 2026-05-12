@@ -61,7 +61,7 @@ A compact 2-layer PCB (~62×62mm) designed around the **ATmega8** 8-bit AVR micr
  
 ---
  
-## 🧩 On-Board Components (inferred from pad footprints)
+## 🧩 On-Board Components 
  
 - ATmega8 DIP-28 or TQFP-32 MCU
 - ISP/ICSP 6-pin or 10-pin programming header
